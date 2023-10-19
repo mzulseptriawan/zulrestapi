@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuPost"
+        android:title="Post"
+        android:icon="@drawable/ic_post" />
+    <item
+        android:id="@+id/menuKategori"
+        android:title="Kategori"
+        android:icon="@drawable/ic_kategori"/>
+    <item
+        android:id="@+id/menuEvent"
+        android:title="Event"
+        android:icon="@drawable/ic_event"/>
+</menu>
